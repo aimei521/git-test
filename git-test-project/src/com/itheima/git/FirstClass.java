@@ -5,8 +5,11 @@ public class FirstClass {
         for (int i = 0; i < 5; i++) {
             System.out.println("hello git project");
         }
+        //hello text
     }
     public void test(){
-        System.out.println("修改内容");
+        int i=0;
+        i=i++;
+        System.out.println("修改内容"+i);
     }
 }
